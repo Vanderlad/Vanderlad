@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌜 Vlad Mihaescu 🌛
 
-My name is Vlad and I am a new student at the University of Windsor studying computer science. I plan to use github to keep all of my files for my projects accessible since I tend to move around a lot between my home pc, laptop and school computers.
+University of Windsor, Computer Science. On a path to discover my niche. I use github to access and build things I find cool from anywhere, + version control is kind of important wouldn't you say?
 
